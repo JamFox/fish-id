@@ -1,0 +1,17 @@
+.vscode
+__pycache__
+env
+*.egg-info
+testbox
+build/
+venv
+dist
+__init__.pyc
+build
+_build
+_static
+_templates
+*.tgz
+*.tar.gz
+*.log
+*.out
